@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name :E.Mythri
+## Register no : 212223240034
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
